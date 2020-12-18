@@ -1,0 +1,6 @@
+[book]
+authors = ["ns"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Brickadia Manual"
