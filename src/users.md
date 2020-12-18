@@ -13,3 +13,7 @@ Please be advised that you will not be left unaware of the time.
 ## Zeblote
 
 A small percentile of users report sightings of a mysterious entity known only as Zeblote. Reports describe him judging the uses of bricks in the player's server, often deeming them terrible. Many users report symptoms of severe headaches and nausea after being informed of this. Please adjust your use of bricks accordingly.
+
+## chief bazinga
+
+This is the best user of Brickadia. When you see him in game, bow down to him.
