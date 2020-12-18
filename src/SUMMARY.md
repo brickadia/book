@@ -2,9 +2,7 @@
 
 - [Brickadia](./brickadia.md)
 
-- [Installation]()
-  - [Windows]()
-  - [Linux]()
+- [Installation](./installation.md)
 
 - [Tools]()
   - [Placer]()
