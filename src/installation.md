@@ -19,6 +19,8 @@ You'll get a shortcut to start Brickadia on your desktop, and several others in 
 
 ## Linux
 
+*The Vulkan renderer in the game is known to be unstable in its current state. If you're experiencing random bouts of crashing, you may want to [try running the game in Proton](https://raw.githubusercontent.com/brickadia/book/main/src/installation_proton.md).*
+
 ### Debian/Ubuntu
 
 Download the `brickadia-launcher.deb` package from [the download page].
