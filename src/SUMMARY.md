@@ -2,9 +2,6 @@
 
 - [Brickadia](./brickadia.md)
 - [Installation](./installation.md)
-
-- [General Features]()
-  - [Presets]()
   
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
@@ -21,8 +18,8 @@
 
 - [Hosting Servers]()
   - [Port Forwarding]()
+  - [Dedicated Servers]()
   - [Roles & Permissions]()
   - [Moderation Tools]()
-  - [Dedicated]()
 
 - [Users](./users.md)

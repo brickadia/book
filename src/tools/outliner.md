@@ -8,4 +8,10 @@ To use the Outliner, simply click and drag to generate a circle. To remove the c
 
 To resize the circle, simply drag the top handle. To move the origin of the circle, simply drag the center of the handle.
 
-![Outliner Circle](./outlinercircle.png)
+![Outliner Circle](images/outlinercircle.png)
+
+## Default Keybindings
+
+|Action|Keybinding|Functionality|
+|---|---|---|
+|Delete Circle|Delete **(while outliner tool is equipped)**|Removes the circle guide.|
