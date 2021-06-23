@@ -18,4 +18,4 @@ You can copy bricks by middle clicking. This allows you to plant the copied bric
 
 |Action|Keybinding|Functionality|
 |---|---|---|
-|Add Brick as Temp Brick|Middle Click **(while placer is equipped)**|Copies a brick and puts it into your tray as a temporary brick.|
+|Add Brick as Temp Brick|Middle Click|Copies a brick and puts it into your tray as a temporary brick.|
