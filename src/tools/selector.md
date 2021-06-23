@@ -14,7 +14,7 @@ For reference, this is what the selection box and its adjustment handles looks l
 You can also adjust the selection box more precisely (under the size of a stud) by holding the **Fine Selection** keybinding.
 
 ## Deleting, Cutting, Copying and Pasting Selections
-These are all self-explanatory, although there's an additional keybinding to retain ownership when pasting bricks called **Advanced Paste Selection**.
+These actions with the selector all use the standard, although there's an additional keybinding to retain ownership when pasting bricks called **Advanced Paste Selection**.
 
 ## Default Keybindings
 

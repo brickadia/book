@@ -2,7 +2,7 @@
 
 - [Brickadia](./brickadia.md)
 - [Installation](./installation.md)
-  
+ 
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
   - [Painter](tools/painter.md)
@@ -15,6 +15,8 @@
 - [Minigames]()
   - [Deathmatch]()
   - [Bricktionary]()
+  
+- [Presets]()
 
 - [Hosting Servers]()
   - [Port Forwarding]()
