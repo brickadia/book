@@ -1,18 +1,19 @@
 # Summary
 
 - [Brickadia](./brickadia.md)
-
 - [Installation](./installation.md)
 
-- [Tools]()
-  - [Placer]()
-  - [Painter]()
-  - [Hammer]()
-  - [Resizer]()
-  - [Selector]()
-  - [Applicator]()
-  - [Outliner]()
-  - [Applicator]()
+- [General Features]()
+  - [Presets]()
+  
+- [Tools](chapter_1.md)
+  - [Placer](tools/placer.md)
+  - [Painter](tools/painter.md)
+  - [Hammer](tools/hammer.md)
+  - [Resizer](tools/resizer.md)
+  - [Selector](tools/selector.md)
+  - [Applicator](tools/applicator.md)
+  - [Outliner](tools/outliner.md)
 
 - [Minigames]()
   - [Deathmatch]()
@@ -21,6 +22,7 @@
 - [Hosting Servers]()
   - [Port Forwarding]()
   - [Roles & Permissions]()
+  - [Moderation Tools]()
   - [Dedicated]()
 
 - [Users](./users.md)
