@@ -32,3 +32,4 @@ Available materials include:
 |Copy Color|Middle Click|Copies the color of a brick.|
 |Scroll through Palette|Mouse wheel (vertically), E (horizontally)|Scrolls through the palette to select a color.|
 |Change Material|Ctrl + E|Switch between scrolling through the colors or materials palette.|
+|Change Material Slider|Ctrl + Mouse Wheel|Changes the material slider while scrolling through the materials palette.|
