@@ -18,4 +18,4 @@ To check ownership of a brick with the hammer, you can press **middle click** on
 
 |Action|Keybinding|Functionality|
 |---|---|---|
-|Get Ownership|Middle Click **(while hammer is equipped)**|Gets ownership of a brick.|
+|Get Ownership|Middle Click|Gets ownership of a brick.|
