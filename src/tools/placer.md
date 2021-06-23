@@ -1,5 +1,7 @@
 # Placer
 
+![Placer](images/Placer.png)
+
 The Placer is a tool for placing bricks.
 
 ## Getting Started

@@ -1,5 +1,7 @@
 # Applicator
 
+![Applicator](images/Applicator.png)
+
 The Applicator is a tool for applying components to bricks. The tool is compatible with [**Presets**]().
 
 The current default component list includes:

@@ -1,5 +1,7 @@
 # Selector
 
+![Selector](images/Selector.png)
+
 The Selector is a tool for selecting many bricks at once. Currently, you can delete many bricks, cut brick selections, copy and paste brick selections from this tool.
 
 ## Getting Started

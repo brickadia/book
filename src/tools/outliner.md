@@ -1,5 +1,7 @@
 # Outliner
 
+![Outline](images/Outliner.png)
+
 The Outliner can currently only make circle guides.
 
 ## Getting Started

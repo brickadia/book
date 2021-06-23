@@ -1,5 +1,7 @@
 # Hammer
 
+![Hammer](images/Hammer.png)
+
 The Hammer is a tool for removing bricks.
 
 ## Getting Started

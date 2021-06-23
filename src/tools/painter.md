@@ -1,5 +1,7 @@
 # Painter
 
+![Painter](images/Painter.png)
+
 The Painter is a tool for painting bricks.
 
 ## Getting Started
