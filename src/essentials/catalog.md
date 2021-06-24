@@ -14,6 +14,6 @@ To access the Catalog, simply press **B**. You can switch between bricks and wea
 
 ![Catalog with Items](../images/Essentials/CatalogItems.png)
 
-To get an item from the Catalog, simply click one of the items you want.
+To get an item from the Catalog, simply click one of the items you want. This will put it in the [Quickbar](quickbar.md).
 
-To remove items from your hotbar, right click on them.
+To remove items from your Quickbar, right click on them.

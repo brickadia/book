@@ -1,8 +1,9 @@
 # Summary
 
 - [Brickadia](./brickadia.md)
+- [System Requirements]()
 - [Installation](./installation.md)
- 
+
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
   - [Painter](tools/painter.md)
@@ -12,11 +13,22 @@
   - [Applicator](tools/applicator.md)
   - [Outliner](tools/outliner.md)
 
+- [Essential Features](chapter_2.md)
+  - [Catalog](essentials/catalog.md)
+  - [Radial Menus](essentials/radial_menus.md)
+  - [Presets](essentials/presets.md)
+  - [Quickbar](essentials/quickbar.md)
+
+- [Components](chapter_3.md)
+  - [Spot Light](components/spot_light.md)
+  - [Point Light](components/point_light.md)
+  - [Audio](components/audio.md)
+  - [Item Spawn](components/item_spawn.md)
+
 - [Minigames]()
   - [Deathmatch]()
   - [Bricktionary]()
-  
-- [Presets]()
+  - [Sandbox]()
 
 - [Hosting Servers]()
   - [Port Forwarding]()

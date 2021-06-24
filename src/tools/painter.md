@@ -1,6 +1,6 @@
 # Painter
 
-![Painter](images/Painter.png)
+![Painter](../images/Tools/Painter.png)
 
 The Painter is a tool for painting bricks.
 
@@ -12,11 +12,11 @@ To copy a color from a brick, use middle click on that brick.
 
 This is the menu for the paint tool.
 
-![Paint Menu](./images/paintmenu.png)
+![Paint Menu](../images/Tools/paintmenu.png)
 
 ## Colors and Materials
 
-The colors that you are able to paint with can be changed in the [Server Settings]() using a [Palette]().
+The colors that you are able to paint with can be changed in the [Server Settings]() using a palette [Preset](../essentials/presets.md).
 
 Available materials include:
 - Plastic (no slider)

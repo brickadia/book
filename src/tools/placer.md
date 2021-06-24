@@ -1,6 +1,6 @@
 # Placer
 
-![Placer](images/Placer.png)
+![Placer](../images/Tools/Placer.png)
 
 The Placer is a tool for placing bricks.
 
@@ -12,10 +12,10 @@ The placer also allows row dragging in a direction. Just **hold left click** and
 
 ## Temporary bricks
 
-You can copy bricks by middle clicking. This allows you to plant the copied brick (as a temp. brick) as long as you do not choose any other bricks in the tray.
+You can copy bricks by middle clicking. This allows you to plant the copied brick (as a temp. brick in the Quickbar) as long as you do not choose any other bricks in the Quickbar.
 
 ## Default Keybindings
 
 |Action|Keybinding|Functionality|
 |---|---|---|
-|Add Brick as Temp Brick|Middle Click|Copies a brick and puts it into your tray as a temporary brick.|
+|Add Brick as Temp Brick|Middle Click|Copies a brick and puts it into your Quickbar as a temporary brick.|
