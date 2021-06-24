@@ -8,7 +8,7 @@ This component can add sounds or music to bricks.
 
 ## Basic Settings
 
-* **Pickup** - This determines the sound that plays from the brick.
+* **Audio Track** - This determines the sound that plays from the brick.
 * **Volume Multiplier** - The volume of the sound.
 * **Pitch Multiplier** - The pitch of the sound.
 
