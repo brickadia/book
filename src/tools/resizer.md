@@ -8,13 +8,13 @@ The Resizer is a tool for resizing bricks.
 
 To resize a brick, simply click on a brick that you want to resize. Once you have done that, you can drag the handles to resize the brick in directions.
 
-![Resizer Tool](../images/Tools/resizertooldisplay.png)
+![Resizer Tool](../images/Tools/ResizerToolDisplay.png)
 
 ## Brick Size Checking
 
 To check the size of a brick with the resizer, you can press **middle click** on a brick.
 
-![Resizer Brick Size](../images/Tools/resizerbricksize.png)
+![Resizer Brick Size](../images/Tools/ResizerBrickSize.png)
 
 ## Default Keybindings
 

@@ -15,7 +15,7 @@ The current default component list includes:
 
 To get started, point at a brick of your choosing and left click with the Applicator tool equipped. The Applicator menu will appear.
 
-![Applicator Menu](../images/Tools/applicatormenu.png)
+![Applicator Menu](../images/Tools/ApplicatorMenu.png)
 
 When outside the Applicator menu, you can **Ctrl + C** on a brick to copy its properties. Once you have done that, you can **Ctrl + V** to paste those properties on other bricks 
 
@@ -45,7 +45,7 @@ They can be toggled by clicking the head, gun or hand buttons in the Applicator 
 
 The Applicator can also let you view existing components of a brick outside the Applicator menu, as seen in the example below.
 
-![Applicator Menu](../images/Tools/applicatorprobe.png)
+![Applicator Menu](../images/Tools/ApplicatorProbe.png)
 
 ## Default Keybindings
 

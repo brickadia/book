@@ -12,7 +12,7 @@ To copy a color from a brick, use middle click on that brick.
 
 This is the menu for the paint tool.
 
-![Paint Menu](../images/Tools/paintmenu.png)
+![Paint Menu](../images/Tools/PaintMenu.png)
 
 ## Colors and Materials
 

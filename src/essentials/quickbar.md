@@ -12,11 +12,11 @@ To switch the Quickbar mode in gameplay, press Ctrl + Q to switch between items 
 
 The quick bar in brick mode:
 
-![Brick Quickbar](../images/Essentials/brickquickbar.png)
+![Brick Quickbar](../images/Essentials/BrickQuickBar.png)
 
 The Quickbar in item mode:
 
-![Item Quickbar](../images/Essentials/itemquickbar.png)
+![Item Quickbar](../images/Essentials/ItemQuickBar.png)
 
 This can be configured through [Minigames]().
 

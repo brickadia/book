@@ -11,7 +11,7 @@ There are a few ways to select bricks with this tool. This includes:
 
 For reference, this is what the selection box and its adjustment handles looks like.
 
-![Selector Box](../images/Tools/selectorbox.png)
+![Selector Box](../images/Tools/SelectorBox.png)
 
 You can also adjust the selection box more precisely (under the size of a stud) by holding the **Fine Selection** keybinding.
 

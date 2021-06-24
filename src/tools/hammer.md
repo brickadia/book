@@ -12,7 +12,7 @@ The Hammer is simple to use. **Left click** on the brick you want to remove. You
 
 To check ownership of a brick with the hammer, you can press **middle click** on a brick.
 
-![Hammer Ownership](../images/Tools/hammerownership.png)
+![Hammer Ownership](../images/Tools/HammerOwnership.png)
 
 ## Default Keybindings
 
