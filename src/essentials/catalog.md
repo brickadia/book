@@ -1,6 +1,6 @@
 # Catalog
 
-The catalog is where you can grab your bricks and weapons from. It is a user interface for getting items.
+The catalog is where you get your bricks and weapons from.
 
 Currently, you are able to browse:
 1. [Bricks]()

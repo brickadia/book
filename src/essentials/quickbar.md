@@ -1,6 +1,6 @@
 # Quickbar
 
-The Quickbar is the hotbar used for this game.
+The Quickbar is where you equip your current brick or item.
 
 ## How to use the Quickbar
 
@@ -24,10 +24,7 @@ This can be configured through [Minigames]().
 
 |Action|Keybinding|Functionality|
 |---|---|---|
-|Slot 1-9*|1 - 9|Equips the item in slot 1 - 9.|
-|Slot 10|0|Equips the item in slot 10.|
+|Slot 1-10|1 - 0|Equips the item in slot 1 - 10.|
 |Next Slot|Mouse Wheel Up|Cycles to the next slot in the Quickbar.|
 |Previous Slot|Mouse Wheel Down|Cycles to the previous slot in the Quickbar.|
 |Switch Mode|Ctrl Q|Switches the Quickbar between bricks and items.|
-
-*: **Shortened version of the in-game keybindings.**
