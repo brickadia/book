@@ -2,6 +2,8 @@
 
 ![Icon](../images/components/point_light.png)
 
+![Point Light Example](../images/components/point_light_example.png)
+
 This component adds a point light to a brick.
 
 ![Edit Menu](../images/components/edit_menu_point_light.png)

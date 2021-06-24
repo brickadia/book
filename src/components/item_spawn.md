@@ -2,6 +2,8 @@
 
 ![Icon](../images/components/item_spawn.png)
 
+![Item Spawn Example](../images/components/item_spawn_example.png)
+
 This component can spawn weapons and adjust their pick-up appearance. Compatible with [Minigames]().
 
 ![Edit Menu](../images/components/edit_menu_item_spawn.png)

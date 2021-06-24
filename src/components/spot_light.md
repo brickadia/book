@@ -2,6 +2,8 @@
 
 ![Icon](../images/components/spot_light.png)
 
+![Spot Light Example](../images/components/spot_light_example.png)
+
 This component adds a spotlight to a brick.
 
 ![Edit Menu](../images/components/edit_menu_spot_light.png)
