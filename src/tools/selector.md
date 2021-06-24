@@ -1,6 +1,6 @@
 # Selector
 
-![Selector](../images/Tools/Selector.png)
+![Selector](../images/tools/selector.png)
 
 The Selector is a tool for selecting many bricks at once. Currently, you can delete many bricks, cut brick selections, copy and paste brick selections from this tool.
 
@@ -11,7 +11,7 @@ There are a few ways to select bricks with this tool. This includes:
 
 For reference, this is what the selection box and its adjustment handles looks like.
 
-![Selector Box](../images/Tools/SelectorBox.png)
+![Selector Box](../images/tools/selector_box.png)
 
 You can also adjust the selection box more precisely (under the size of a stud) by holding the **Fine Selection** keybinding.
 

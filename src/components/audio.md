@@ -1,10 +1,10 @@
 # Audio
 
-![Icon](../images/Components/Audio.png)
+![Icon](../images/components/audio.png)
 
 This component can add sounds or music to bricks.
 
-![Edit Menu](../images/Components/EditMenuAudio.png)
+![Edit Menu](../images/components/edit_menu_audio.png)
 
 ## Basic Settings
 

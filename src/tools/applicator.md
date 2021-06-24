@@ -1,6 +1,6 @@
 # Applicator
 
-![Applicator](../images/Tools/Applicator.png)
+![Applicator](../images/tools/applicator.png)
 
 The Applicator is a tool for applying components to bricks. The tool is compatible with [**Presets**](../essentials/presets.md).
 
@@ -15,7 +15,7 @@ The current default component list includes:
 
 To get started, point at a brick of your choosing and left click with the Applicator tool equipped. The Applicator menu will appear.
 
-![Applicator Menu](../images/Tools/ApplicatorMenu.png)
+![Applicator Menu](../images/tools/applicator_menu.png)
 
 When outside the Applicator menu, you can **Ctrl + C** on a brick to copy its properties. Once you have done that, you can **Ctrl + V** to paste those properties on other bricks 
 
@@ -45,7 +45,7 @@ They can be toggled by clicking the head, gun or hand buttons in the Applicator 
 
 The Applicator can also let you view existing components of a brick outside the Applicator menu, as seen in the example below.
 
-![Applicator Menu](../images/Tools/ApplicatorProbe.png)
+![Applicator Menu](../images/tools/applicator_probe.png)
 
 ## Default Keybindings
 

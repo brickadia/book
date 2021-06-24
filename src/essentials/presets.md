@@ -16,11 +16,11 @@ The Presets menu is accessible at any given point when it's possible to save con
 
 Click any preset to load it.
 
-![Preset Menu](../images/Essentials/PresetsMenu.png)
+![Preset Menu](../images/essentials/presets_menu.png)
 
 When you hover over a preset in this menu, 3 options will show.
 
-![Preset Menu](../images/Essentials/PresetsMenuHoverOver.png)
+![Preset Menu](../images/essentials/presets_menu_hovered_over.png)
 
 Here's a list of the options (in order):
 1. Rename - Click this button to rename the preset.

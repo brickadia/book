@@ -18,4 +18,4 @@ This is a *summary* of these tools, to view the full functionalities, **please r
 
 When you have a building tool equipped, the game will show all invisible bricks with this effect:
 
-![Invisible Effect](images/Tools/InvisibleBrickEffect.png)
+![Invisible Effect](images/tools/invisible_brick_effect.png)

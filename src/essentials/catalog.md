@@ -10,9 +10,9 @@ Currently, you are able to browse:
 
 To access the Catalog, simply press **B**. You can switch between bricks and weapons on the top bar.
 
-![Catalog with Bricks](../images/Essentials/CatalogBricks.png)
+![Catalog with Bricks](../images/essentials/catalog_bricks.png)
 
-![Catalog with Items](../images/Essentials/CatalogItems.png)
+![Catalog with Items](../images/essentials/catalog_items.png)
 
 To get an item from the Catalog, simply click one of the items you want *or* click and drag the item to the [Quickbar](quickbar.md). This will put it in the Quickbar.
 

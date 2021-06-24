@@ -1,10 +1,10 @@
 # Point Light
 
-![Icon](../images/Components/PointLight.png)
+![Icon](../images/components/point_light.png)
 
 This component adds a point light to a brick.
 
-![Edit Menu](../images/Components/EditMenuPointLight.png)
+![Edit Menu](../images/components/edit_menu_point_light.png)
 
 ## Basic Settings
 
