@@ -1,5 +1,4 @@
-# Chapter 1: Building
-## Tools
+# Chapter 1: Tools
 In Brickadia, there are several types of tools you can use to enhance your building experience. Currently, there are a
 total of **7** building tools in the game. The most prominent ones are the *Placer*, *Painter* and *Hammer*.
 
@@ -19,4 +18,4 @@ This is a *summary* of these tools, to view the full functionalities, **please r
 
 When you have a building tool equipped, the game will show all invisible bricks with this effect:
 
-![Invisible Effect](tools/images/invisiblebrickeffect.png)
+![Invisible Effect](images/tools/invisible_brick_effect.png)
