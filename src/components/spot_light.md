@@ -8,19 +8,9 @@ This component adds a spotlight to a brick.
 
 ![Edit Menu](../images/components/edit_menu_spot_light.png)
 
-## Basic Settings
+## Tips for this Component
 
-* **Brightness** - The brightness of the light
-* **Radius** - The radius of the spotlight
-* **Sync Brick Color** - Syncs the light color with the brick's color. ***This disables Custom Color.***
-* **Custom Color** - Uses a custom light color.
-
-## Advanced
-
-* **Cast Shadows** - Toggles shadows for the light. ***It is advised to not overuse this as this may cause performance issues!***
-
-## Spot Light
-
-* **Rotation** - The direction or angle that the spotlight points at, relative to the brick's rotation.
-* **Inner Cone Angle** - The angle of the inner spotlight cone.
-* **Outer Cone Angle** - The angle of the outer spotlight cone.
+- Spot lights rotate with the placer's ghost preview, so their *Rotation* settings aren't affected in any way.
+- Do not overlap spot lights too much as this can cause performance issues.
+- If the *Inner Cone Angle* is higher than the *Outer Cone Angle*, the spotlight will produce a result like this:
+  ![Sharp Spot Light](../images/components/sharp_spot_light.png)

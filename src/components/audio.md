@@ -6,16 +6,7 @@ This component can add sounds or music to bricks.
 
 ![Edit Menu](../images/components/edit_menu_audio.png)
 
-## Basic Settings
+## Tips for this Component
 
-* **Audio Track** - This determines the sound that plays from the brick.
-* **Volume Multiplier** - The volume of the sound.
-* **Pitch Multiplier** - The pitch of the sound.
-
-## Distance
-* **Inner Radius** - The inner radius of the sound.
-* **Max Distance** - The maximum distance of the sound.
-
-## Advanced
-
-* **Directional** - Determines whether the sound is [mono](https://en.wikipedia.org/wiki/Monaural) or [stereo](https://en.wikipedia.org/wiki/Stereophonic_sound).
+- It is **NOT** recommended to use this component as a way to add loud sounds in public servers unless necessary, as this may disturb players or lead to server bans.
+- You can use the *Pitch Multiplier* as a way to create a variety of sounds.
