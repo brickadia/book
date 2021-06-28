@@ -21,6 +21,8 @@ You'll get a shortcut to start Brickadia on your desktop, and several others in 
 
 *The Vulkan renderer in the game is known to be unstable in its current state. If you're experiencing random bouts of crashing, you may want to [try running the game in Proton](./installation_proton.md).*
 
+Brickadia can be started from application entries.
+
 ### Debian/Ubuntu
 
 Download the `brickadia-launcher.deb` package from [the download page].
@@ -31,7 +33,9 @@ On most distributions, you should be able to open it to install it. If not, run 
 sudo apt install ~/Downloads/brickadia-launcher.deb
 ```
 
-Application entries will be added for Brickadia.
+### Arch Linux
+
+Install [`brickadia-launcher`](https://aur.archlinux.org/packages/brickadia-launcher/) from the [AUR](https://wiki.archlinux.org/title/AUR).
 
 ### Other
 
