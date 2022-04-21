@@ -12,10 +12,15 @@ The placer also allows row dragging in a direction. Just **hold left click** and
 
 ## Temporary bricks
 
-You can copy bricks by middle clicking. This allows you to plant the copied brick (as a temp. brick in the Quickbar) as long as you do not choose any other bricks in the Quickbar.
+You can copy bricks by middle clicking. This allows you to place the brick like any other.
+
+Copying can be done in two ways:
+- As a temporary brick. The copied brick type will remain selected in the quickbar until you switch to something else.
+- As a new quickbar brick (hold ctrl). The copied brick type will be added to the end of your quickbar, like bricks chosen from within the catalog are.
 
 ## Default Keybindings
 
 |Action|Keybinding|Functionality|
 |---|---|---|
 |Add Brick as Temp Brick|Middle Click|Copies a brick and puts it into your Quickbar as a temporary brick.|
+|Add Brick|Ctrl + Middle Click|Copies a brick and puts it into your Quickbar.|
