@@ -1,4 +1,4 @@
-# Dedicated Server Setup
+# Dedicated Server
 Brickadia allows you to host a server on a dedicated machine. You may want to do this if:
 - You have a VPS/bare metal server spare
 - You want to avoid hosting a server on your own machine/home network

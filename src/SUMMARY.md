@@ -33,7 +33,7 @@
 
 - [Hosting Servers](chapter_5.md)
   - [Client Hosting](servers/setup_client.md)
-  - [Dedicated Servers](servers/setup_dedicated.md)
+  - [Dedicated Server](servers/setup_dedicated.md)
   - [Port Forwarding]()
   - [Roles & Permissions]()
   - [Moderation Tools]()
