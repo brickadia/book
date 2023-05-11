@@ -32,8 +32,9 @@
   - [Sandbox]()
 
 - [Hosting Servers](chapter_5.md)
+  - [Client Hosting](servers/setup_client.md)
+  - [Dedicated Servers](servers/setup_dedicated.md)
   - [Port Forwarding]()
-  - [Dedicated Servers]()
   - [Roles & Permissions]()
   - [Moderation Tools]()
 
