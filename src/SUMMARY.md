@@ -26,12 +26,12 @@
   - [Audio](components/audio.md)
   - [Item Spawn](components/item_spawn.md)
 
-- [Minigames]()
+- [Minigames](chapter_4.md)
   - [Deathmatch]()
   - [Bricktionary]()
   - [Sandbox]()
 
-- [Hosting Servers]()
+- [Hosting Servers](chapter_5.md)
   - [Port Forwarding]()
   - [Dedicated Servers]()
   - [Roles & Permissions]()
