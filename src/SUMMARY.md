@@ -2,7 +2,7 @@
 
 - [Brickadia](./brickadia.md)
 - [System Requirements]()
-- [Installation](./installation.md)
+- [Client Installation](./installation.md)
 
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
