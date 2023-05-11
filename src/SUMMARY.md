@@ -3,6 +3,7 @@
 - [Brickadia](./brickadia.md)
 - [System Requirements]()
 - [Client Installation](./installation.md)
+  - [Proton](./installation_proton.md)
 
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
