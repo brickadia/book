@@ -33,10 +33,6 @@ On most distributions, you should be able to open it to install it. If not, run 
 sudo apt install ~/Downloads/brickadia-launcher.deb
 ```
 
-### Arch Linux
-
-Install [`brickadia-launcher`](https://aur.archlinux.org/packages/brickadia-launcher/) from the [AUR](https://wiki.archlinux.org/title/AUR).
-
 ### Other
 
 An official package is not available for any other distributions yet, but you can download an archive of the launcher that should work on most Linux distributions, provided that you find the dependencies.
