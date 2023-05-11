@@ -1,4 +1,4 @@
-# Installation
+# Client Installation
 
 Brickadia has a launcher that will update the game for you, so you'll only need to install it once.
 
