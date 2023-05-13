@@ -83,6 +83,17 @@ Brickadia servers require authentication before they can appear on the master li
 
 After this, you do not need to pass your username or password as the file is cached in `~/.config/Epic/Brickadia/Saved/Auth`.
 
+Assuming all went well, you should now be able to join your server. You can configure your game once you have joined it, by pressing `Esc` and pressing `Edit Game`.
+
+## Misc
+
+Files of importance:
+- Configs: `~/.config/Epic/Brickadia/`
+- Install: `~/.local/share/brickadia-launcher/`
+
+Commands:
+- `quit` - Quit the game
+
 ----
 
 [^arm]: Arm is not supported officially, however [box64](https://github.com/ptitSeb/box64) has been known to work with Brickadia.
