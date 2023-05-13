@@ -61,7 +61,7 @@ Inside the new `brickadia-launcher`, run the following command to download the g
   ```
 </details>
 
-Once the game has downloaded, the game will start the server. You should close the server (ctrl + c) and move onto the next step.
+Once the game has downloaded, the launcher will start the server. You should close the server (ctrl + c) and move onto the next step.
 
 ## Port Forwarding
 
