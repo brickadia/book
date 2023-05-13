@@ -65,7 +65,7 @@ Once the game has downloaded, the game will start the server. You should close t
 
 ## Port Forwarding
 
-Read (portforward.brickadia.dev)[https://portforward.brickadia.dev/], as this will always contain the latest ports you will want to port forward.
+Read [portforward.brickadia.dev](https://portforward.brickadia.dev/), as this will always contain the latest ports you will want to port forward.
 
 We will be using [ufw](https://help.ubuntu.com/community/UFW) to port forward, as most distros tend to include it out of the box.
 
