@@ -10,11 +10,24 @@ Before you start this guide, you will need the following:
   - For the best reliability, we recommend getting a VPS or a bare metal machine from a server rental company. If you are home hosting off an old laptop, your results may vary.
 2. A way to connect to that machine, either through `SSH` or with a keyboard & monitor.
 
-### Linux Inital Setup
-This section covers how to add a new linux user, as we advise you do not host off a root user. You can skip this if you know what you are doing.
+## Linux
+In this tutorial, we assume you are hosting a server on a Debian based distro. 
 
-### Linux Setup
+### User
+In general, we recommend installing Brickadia onto a user that isnt `root`[^root].
+
+```bash
+sudo adduser brickadia
+```
+
+
+### Install
+
 
 
 ### Windows Setup
 
+
+
+
+[^root]: Its good practice in linux not to run applications under `root` unless they require that level of access to the system. There is nothing preventing you from doing so however.
