@@ -1,6 +1,6 @@
 # Linux Setup
 
-We assume you are hosting a server on a Debian based distro, on a x86-64 CPU[^arm]
+This guide assumes you are hosting a server on a Debian based distro, on a x86-64 CPU[^arm]
 
 You can use any linux distro you want to host Brickadia, you will just need to adjust the commands to what your distro provides by default.
 
@@ -63,11 +63,30 @@ Inside the new `brickadia-launcher`, run the following command to download the g
 
 Once the game has downloaded, the game will start the server. You should close the server (ctrl + c) and move onto the next step.
 
+## Port Forwarding
+
+Read (portforward.brickadia.dev)[https://portforward.brickadia.dev/], as this will always contain the latest ports you will want to port forward.
+
+We will be using [ufw](https://help.ubuntu.com/community/UFW) to port forward, as most distros tend to include it out of the box.
+
+```sh
+sudo ufw allow 7777/udp
+```
+
 ## Startup
 
+Brickadia servers require authentication before they can appear on the master list. To do so, you must pass your username and password at least once when launching the server.[^password]
 
+```sh
+ ./brickadia-launcher --server -- -User=Username -Password="password"
+```
 
+After this, you do not need to pass your username or password as the file is cached in `~/.config/Epic/Brickadia/Saved/Auth`.
 
+----
 
-[^root]: Its good practice in linux not to run applications under `root` unless they require that level of access to the system. There is nothing preventing you from doing so however.
-[^arm]: Arm is not supported officially, however [box64](https://github.com/ptitSeb/box64) has been known to work.
+[^arm]: Arm is not supported officially, however [box64](https://github.com/ptitSeb/box64) has been known to work with Brickadia.
+
+[^root]: Its good practice in linux not to run applications under `root` unless they require that level of access to the system. There is nothing preventing you from doing so.
+
+[^password]: The command includes a space at the start, as it tells bash to not save it in `~/.bash_history`
