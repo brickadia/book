@@ -1,8 +1,8 @@
 # Dedicated Server
 Brickadia allows you to host a server on a dedicated machine. You may want to do this if:
 - You have a VPS/bare metal server spare
-- You want to avoid hosting a server on your own machine/home network
-- You want to offload the processing required onto another machine
+- You want to avoid hosting a server on your own machine or home network
+- You want to offload the server processing required onto another machine
 
 ## Requirements
 Before you start this guide, you will need the following:
