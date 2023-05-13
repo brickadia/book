@@ -1,10 +1,12 @@
 # Summary
+[Brickadia](./brickadia.md)
 
-- [Brickadia](./brickadia.md)
+# Installation
 - [System Requirements]()
 - [Client Installation](./installation.md)
   - [Proton](./installation_proton.md)
 
+# Features
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
   - [Painter](tools/painter.md)
@@ -31,6 +33,7 @@
   - [Bricktionary]()
   - [Sandbox]()
 
+# Advanced Features
 - [Hosting Servers](chapter_5.md)
   - [Client Hosting](servers/setup_client.md)
   - [Dedicated Server](servers/setup_dedicated.md)
@@ -38,4 +41,5 @@
   - [Roles & Permissions]()
   - [Moderation Tools]()
 
+# Misc
 - [Users](./users.md)
