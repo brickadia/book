@@ -1,9 +1,12 @@
 # Summary
+[Brickadia](./brickadia.md)
 
-- [Brickadia](./brickadia.md)
+# Installation
 - [System Requirements]()
-- [Installation](./installation.md)
+- [Client Installation](./installation.md)
+  - [Proton](./installation_proton.md)
 
+# Features
 - [Tools](chapter_1.md)
   - [Placer](tools/placer.md)
   - [Painter](tools/painter.md)
@@ -25,15 +28,20 @@
   - [Audio](components/audio.md)
   - [Item Spawn](components/item_spawn.md)
 
-- [Minigames]()
+- [Minigames](chapter_4.md)
   - [Deathmatch]()
   - [Bricktionary]()
   - [Sandbox]()
 
-- [Hosting Servers]()
+# Advanced Features
+- [Hosting Servers](chapter_5.md)
+  - [Client Hosting](servers/setup_client.md)
+  - [Dedicated Server](servers/setup_dedicated.md)
+    - [Linux Setup](servers/setup_linux.md)
+    - [Windows Setup]()
   - [Port Forwarding]()
-  - [Dedicated Servers]()
   - [Roles & Permissions]()
   - [Moderation Tools]()
 
+# Misc
 - [Users](./users.md)

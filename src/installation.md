@@ -1,4 +1,4 @@
-# Installation
+# Client Installation
 
 Brickadia has a launcher that will update the game for you, so you'll only need to install it once.
 
@@ -32,10 +32,6 @@ On most distributions, you should be able to open it to install it. If not, run 
 ```bash
 sudo apt install ~/Downloads/brickadia-launcher.deb
 ```
-
-### Arch Linux
-
-Install [`brickadia-launcher`](https://aur.archlinux.org/packages/brickadia-launcher/) from the [AUR](https://wiki.archlinux.org/title/AUR).
 
 ### Other
 
