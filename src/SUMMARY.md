@@ -37,6 +37,8 @@
 - [Hosting Servers](chapter_5.md)
   - [Client Hosting](servers/setup_client.md)
   - [Dedicated Server](servers/setup_dedicated.md)
+    - [Linux Setup](servers/setup_linux.md)
+    - [Windows Setup]()
   - [Port Forwarding]()
   - [Roles & Permissions]()
   - [Moderation Tools]()
